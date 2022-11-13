@@ -1,0 +1,4 @@
+outs:
+- md5: a458e8f4a3418d70cf532c79b4a4e7a0
+  size: 112332
+  path: loc_sample_df.csv
